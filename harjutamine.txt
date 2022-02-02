@@ -1,0 +1,3 @@
+GitHub on koodimajutusplatvorm versioonikontrolliks. See võimaldab mitmel 
+inimesel korraga projektide kallal tööd teha. GitHubi kasutavad Eestis nt e-gov, open-eID, @kinnisvara..
+jpt riikliku taustaga valitsusasutused üle maailma. 
